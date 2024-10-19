@@ -1,0 +1,12 @@
+src
+.idea
+.settings
+localDeployment
+.git
+.classpath
+.gitignore
+.project
+pom.xml
+README.md
+!target/*.jar
+!src/main/resources/test.txt
